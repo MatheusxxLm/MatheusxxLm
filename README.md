@@ -1,7 +1,7 @@
 ### Olá, Me Chamo Matheus e sou Apaixonado por Tecnologia! 👋
 
 
-- 🌱 Estudando JAVA e C#
+- 🌱 Estudando C#
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 📱 Futuro Desenvolvedor Mobile
 
