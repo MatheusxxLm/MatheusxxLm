@@ -3,7 +3,6 @@
 
 - 🌱 Estudando C#
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 📱 Futuro Desenvolvedor Mobile
 
 <div align="center">
   <a href="https://github.com/MatheusxxLm">
