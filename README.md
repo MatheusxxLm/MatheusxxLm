@@ -1,8 +1,6 @@
 ### Olá, Me Chamo Matheus e sou Apaixonado por Tecnologia! 👋
 
 
-- 🌱 Estudando C# ASP.NET
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/MatheusxxLm">
